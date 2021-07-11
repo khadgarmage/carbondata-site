@@ -1,4 +1,0 @@
-<script>
-// Show selected style on nav item
-$(function() { $('.b-nav__s3').addClass('selected'); });
-</script>

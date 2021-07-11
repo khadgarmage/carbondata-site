@@ -1,4 +1,0 @@
-<script>
-// Show selected style on nav item
-$(function() { $('.b-nav__perf').addClass('selected'); });
-</script>
